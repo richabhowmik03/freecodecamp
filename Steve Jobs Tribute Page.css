@@ -1,0 +1,48 @@
+ 
+    <style>
+    main {
+  
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+#subtitle{
+  font-size: 20px;
+}
+img {
+  display: block;
+  position: relative;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#img-caption {
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+}
+section {
+  background-color: rgb(211, 211, 211);
+  
+}
+p {
+  font-size: 18px;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+p1 {
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: sans-serif;
+}
+mark {
+  background-color: #4ee44e;
+}
+</style>
