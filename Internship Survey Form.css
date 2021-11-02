@@ -1,0 +1,50 @@
+
+<style>
+
+body {
+    background-image: url(https://mcdn.wallpapersafari.com/medium/68/66/PLgQbl.jpg);
+  }
+  .container {
+    width: 700px;
+    max-width: 100%;
+    margin: 25px auto;
+    padding: 20px 12px 10px 20px;
+    background-color: white;
+  }
+  #description {
+    text-align: center;
+  }
+  #survey-form {
+    text-align: center;
+    width: 700px;
+    max-width: 100%;
+    margin: -65px auto;
+    padding: 20px 12px 10px 20px;
+    background-color: #c5c5c5;
+    border: 1px solid;
+  }
+  #name-label {
+    text-align: center;
+  }
+  
+  input {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  .form-control {
+    display: block;
+    width: 100%;
+  }
+  
+  label {
+    font-weight: normal;
+  }
+  textarea {
+    text-align: center;
+  }
+  
+  #submit {
+    background-color: #FFA500;
+  }
+
+</style>
